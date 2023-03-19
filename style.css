@@ -46,10 +46,9 @@ body {
 
 .diceScore {
     background-color: #bf2e57;
-    width: 150px;
-    padding: 10px;
-    border-radius: 10px;
-    font-size: 25px;
+    width: 120px;
+    padding: 5px 10px;
+    border-radius: 20px;
 }
 
 .bTns:hover {
